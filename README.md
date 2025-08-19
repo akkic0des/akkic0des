@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/vGRbAc-qV9MAAAAC/haklaman-hakla.gif" alt="coding gif" width="300"/>
+</p>
+
+
 # Hi, I'm Akshat Sharma 👋  
 🎓 Final-year B.Tech student from Rohtak, Haryana  
 💻 Java developer & Machine Learning enthusiast  

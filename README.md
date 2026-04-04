@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/vGRbAc-qV9MAAAAC/haklaman-hakla.gif" alt="coding gif" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi+I'm+Akshat+Sharma;Aspiring+Software+Engineer;Java+%7C+DSA+%7C+Web+Development;Open+to+Opportunities" />
 </p>
 
 

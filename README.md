@@ -1,43 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A66C2,100:00C9A7&text=Akshat%20Sharma&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Java%20%C2%B7%20Machine%20Learning%20%C2%B7%20Problem%20Solving&descSize=18&descAlignY=60&animation=fadeIn" alt="Akshat Sharma"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d0d0d,50:ff0080,100:7928ca&text=AKSHAT%20SHARMA&fontColor=ffffff&fontSize=60&fontAlignY=42&desc=%5B%20ships%20code%20%7C%20breaks%20things%20%7C%20fixes%20them%20later%20%5D&descSize=18&descAlignY=65&stroke=ff0080&strokeWidth=2" alt="Akshat Sharma"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=700&height=50&lines=Final-year+B.Tech+%7C+Rohtak%2C+Haryana;Writing+Java+by+day%2C+learning+ML+by+night;Turning+small+ideas+into+shipped+projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=FF0080&center=true&vCenter=true&width=760&height=50&lines=%3E+sudo+make+me+a+better+engineer;%3E+Java+is+my+native+language;%3E+teaching+machines+to+think+(they%27re+slow+learners);%3E+it+works+on+my+machine;%3E+404%3A+sleep+not+found" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akkic0des&style=flat-square&color=0A66C2&label=Profile+Views"/>
-  <a href="mailto:amxn28@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/akshatttsharmaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=akkic0des&style=for-the-badge&color=ff0080&label=VICTIMS+SERVED"/>
+  <a href="mailto:amxn28@gmail.com"><img src="https://img.shields.io/badge/PING_ME-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff0080"/></a>
+  <a href="https://www.linkedin.com/in/akshatttsharmaa"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=7928ca"/></a>
 </p>
 
----
+```console
+akshat@rohtak:~$ whoami
+> final-year B.Tech survivor | Java dev | ML apprentice
 
-## 👋 About me
+akshat@rohtak:~$ cat current_status.txt
+> learning ML, one confidently-wrong model at a time
+> debugging with print statements like it's 1999
+> still arguing with the compiler (compiler is winning)
 
-- 🎓 Final-year B.Tech student from **Rohtak, Haryana**
-- ☕ Solving problems in **Java**, one data structure at a time
-- 🧠 Learning **Machine Learning** and **Python for AI/ML**
-- 🌱 Open to **open-source** work, **ML / Data Science** projects and collaborations
+akshat@rohtak:~$ ./goals.sh
+> contribute to open source        [ ] pending
+> build ML + data science stuff    [ ] pending
+> get dangerously good at DSA      [~] in progress
+> ship things people actually use  [x] see below
 
-## 🔨 What I'm building
+akshat@rohtak:~$ _
+```
 
-| Project | Repo |
-|---|---|
-| **TinyTrail** | [akkic0des/tinytrail](https://github.com/akkic0des/tinytrail) |
-| **HireForge** | [akkic0des/hireforge](https://github.com/akkic0des/hireforge) |
+## 💀 THINGS I SHIPPED (AND SURVIVED)
 
-## 🛠️ Toolbox
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/akkic0des/tinytrail"><img src="https://img.shields.io/badge/TINYTRAIL-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0080" alt="TinyTrail"/></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/akkic0des/hireforge"><img src="https://img.shields.io/badge/HIREFORGE-0d0d0d?style=for-the-badge&logo=github&logoColor=7928ca" alt="HireForge"/></a>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,linux,vscode&theme=dark" alt="Tech stack"/>
+## ⚔️ LOADOUT
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,git,github,vscode&theme=dark" alt="Tech stack"/>
 </p>
 
-## 📈 Stats
+## 📊 RECEIPTS
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akkic0des&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkic0des&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akkic0des&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkic0des&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d" alt="Top languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akkic0des&bg_color=0d0d0d&color=ff0080&line=7928ca&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+</p>
+
+## 🐍 THE SNAKE IS HUNGRY (FEED IT COMMITS)
 
 <p align="center">
   <picture>
@@ -47,4 +68,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C9A7,100:0A66C2&section=footer" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,100:ff0080&section=footer&text=%3Cno%20bugs%20were%20harmed%3E&fontColor=ffffff&fontSize=18&fontAlignY=70" alt=""/>

@@ -35,6 +35,12 @@ Passionate about solving problems with <b>Java</b> and building intelligent syst
 <h3 align="center">Let's connect.</h3>
 
 <p align="center">
+  <a href="mailto:amxn28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshatttsharmaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/akkic0des">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -55,7 +61,10 @@ Passionate about solving problems with <b>Java</b> and building intelligent syst
 A collection of projects built while exploring AI, automation and developer tools.
 </p>
 
-<p align="center"><i>Projects coming soon.</i></p>
+<p align="center">
+  <a href="https://github.com/akkic0des/tinytrail"><b>TinyTrail</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/akkic0des/hireforge"><b>HireForge</b></a>
+</p>
 
 </br>
 
